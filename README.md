@@ -1,16 +1,16 @@
-# craxrat-v3-2023-download
-Craxs Rat V3 Latest 2023 Android Remote Access Tool
-# CRAXS-RAT-V3-2023
-Craxs Rat V3 Latest 2023 Android Remote Access Tool
-# CRAXS-RAT-V3
-
+# CraxsRat 
+CraxsRat最新中文版，调整部分界面，显示更美观。
+# 软件授权
+🔥终身授权🔥
 🔥CRAXSRAT-LIFETIME🔥
 
-# DISCLAIMER:
+# 免责声明:
+使用此软件对任何人造成任何损害与本人无关，概不负任何责任。
+我不支持任何恶意使用此软件，分享只是为了学习交流为目的。
 
+# DISCLAIMER:
 I am NOT responsible for any demages caused by this software to anyone.
 I do NOT support any malicious use of this software. This is for educational purposes only.
-
 
 ---
 |[下载地址]()|[视频演示]()|[电报交流]()|[腾讯QQ]()|
