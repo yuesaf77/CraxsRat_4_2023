@@ -152,3 +152,7 @@ Skeleton view or Scan View
 - ✅Add logo window to copy anything from screen easy
 
 # Screenshot
+![20230212110415](https://user-images.githubusercontent.com/62233800/218290778-5da007b1-0845-426f-b302-81f8029bfeeb.jpg)
+![20230212110455](https://user-images.githubusercontent.com/62233800/218290786-1e4dac1c-0f3a-40f3-9083-ecf6cd72a47f.jpg)
+![20230212110433](https://user-images.githubusercontent.com/62233800/218290792-bfe55104-4edd-4f84-9edf-66d8df4416f7.jpg)
+
