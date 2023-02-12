@@ -13,11 +13,14 @@ I do NOT support any malicious use of this software. This is for educational pur
 
 
 ---
-|[Download]()|[Video]()|[Telegram]()|
-|:------------- |:-------------:|:-------------:|
+|[下载地址]()|[视频演示]()|[电报交流]()|[腾讯QQ]()|
+|:------------- |:-------------:|:-------------:|:-------------:|
+|[Download]()|[Video]()|[Telegram]()|[tencentQQ]()|
 
-
-
+# 功能展示
+![218290778](https://user-images.githubusercontent.com/62233800/218306530-f02c2895-c7a6-42a6-9c42-197c83e8ffa8.jpg)
+![20230212134146](https://user-images.githubusercontent.com/62233800/218306534-50b8856c-58d9-46e9-be60-bce0d35cd746.jpg)
+![20230212134200](https://user-images.githubusercontent.com/62233800/218306538-ea93a81f-504e-45ad-9854-55bdd0464f11.jpg)
 
 ## Features
 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
@@ -150,9 +153,3 @@ screen
 Skeleton view or Scan View
 - ✅ Bypass black screen of banks and crypto app
 - ✅Add logo window to copy anything from screen easy
-
-# Screenshot
-![20230212110415](https://user-images.githubusercontent.com/62233800/218290778-5da007b1-0845-426f-b302-81f8029bfeeb.jpg)
-![20230212110455](https://user-images.githubusercontent.com/62233800/218290786-1e4dac1c-0f3a-40f3-9083-ecf6cd72a47f.jpg)
-![20230212110433](https://user-images.githubusercontent.com/62233800/218290792-bfe55104-4edd-4f84-9edf-66d8df4416f7.jpg)
-
