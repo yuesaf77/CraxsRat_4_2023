@@ -18,7 +18,7 @@ I do NOT support any malicious use of this software. This is for educational pur
 |[Download]()|[Video]()|[Telegram](https://t.me/+KDNcYxey-L00ODRl)|[tencentQQ](https://jq.qq.com/?_wv=1027&k=wSFyixbk)|
 
 # 功能展示
-！[20230511095754] (https://github.com/Kevin2021-jk/CraxsRat_4_2023/assets/62233800/31ae590c-7aa7-4711-935b-7e09444d9f36)
+![20230511095754](https://github.com/Kevin2021-jk/CraxsRat_4_2023/assets/62233800/36f06914-680d-4a01-b913-b2a83a46e5bd)
 ![218290778](https://user-images.githubusercontent.com/62233800/218306530-f02c2895-c7a6-42a6-9c42-197c83e8ffa8.jpg)
 ![20230212134146](https://user-images.githubusercontent.com/62233800/218306534-50b8856c-58d9-46e9-be60-bce0d35cd746.jpg)
 ![20230212134200](https://user-images.githubusercontent.com/62233800/218306538-ea93a81f-504e-45ad-9854-55bdd0464f11.jpg)
